@@ -1,1 +1,1 @@
-# drawing-grid
+Little project from the Odin project to learn jQuery making a drawing grid.
